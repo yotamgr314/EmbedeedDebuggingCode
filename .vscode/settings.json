@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "oledc_colors.h": "c",
+    "spi1_driver.h": "c",
+    "pin_manager.h": "c",
+    "oledc.h": "c"
+  }
+}
